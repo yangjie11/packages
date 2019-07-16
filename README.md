@@ -5,7 +5,7 @@
 
 The packages repo for rt-thread. In this git repo, there is only the information of packages. Some packages maintained by RT-Thread team, is hosted in https://github.com/RT-Thread-packages.
 
-# [中文版] 包仓库
+# [中文版xx] 包仓库
 
 这个仓库用于存放RT-Thread的软件包信息。RT-Thread包分成两部分，包信息和软件包。这个仓库中存放的是包信息（有的时候也可以称为包索引，会直接出现在menuconfig配置工具中）：
 
